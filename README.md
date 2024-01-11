@@ -48,4 +48,3 @@ The dependencies will be installed on boot of the docker container; restart the 
 docker compose restart app
 ```
 
-
